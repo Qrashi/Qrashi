@@ -7,3 +7,4 @@ I am a 16 year old student at [BRG-APP Innsbruck](https://www.brg-app.tsn.at/)
 **-** discord, ``Qrashi#1067``
 
 ### 👀 Feel free to look at some of my projects I work on in my spare time.
+[:)](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY)
