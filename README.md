@@ -1,7 +1,7 @@
 <!-- These icons are a beautiful creation by this nice guy: https://github.com/carlsednaoui/gitsocial -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+<!-- [![alt text][1.1]][1] -->
+<!-- [![alt text][2.1]][2] -->
 <!--[![alt text][3.1]][3] -->
 <!--[![alt text][4.1]][4] --> 
 <!--[![alt text][5.1]][5] -->
@@ -13,8 +13,8 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://user-images.githubusercontent.com/56923218/215899185-dbd565c6-3bc7-467f-8c10-d11694a050b9.svg (spotify)
-[2.1]: https://user-images.githubusercontent.com/56923218/215899610-470c0428-4837-4e12-bd22-0c0bb0bc330b.svg (instagram)
+<!--[1.1]: https://user-images.githubusercontent.com/56923218/215899185-dbd565c6-3bc7-467f-8c10-d11694a050b9.svg (spotify) -->
+<!-- [2.1]: https://user-images.githubusercontent.com/56923218/215899610-470c0428-4837-4e12-bd22-0c0bb0bc330b.svg (instagram) -->
 <!-- [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding) -->
 <!-- [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding) -->
 <!-- [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding) -->
