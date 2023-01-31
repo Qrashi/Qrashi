@@ -37,7 +37,9 @@ I am a 17 year old student at [BRG-APP Innsbruck](https://www.brg-app.tsn.at/)
 
 ### 📬 You can find / contact me via
 **-** [GitLab](https://gitlab.com/Qrashi), where some of my other stuff is hosted on <br>
+**-** [Instagram](https://instagram.com/fritzlibitzli)
 **-** discord, ``Qrashi#1067``
 
 ### 👀 Feel free to look at some of my projects I work on in my spare time.
-[:)](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY)
+[my spotify profile](https://open.spotify.com/user/fritz.ra176?si=e99d425753a84686)
+[my stats.fm profile](https://stats.fm/fiz)
