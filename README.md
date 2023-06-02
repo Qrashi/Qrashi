@@ -33,9 +33,9 @@
 <!-- These icons are a beautiful creation by this nice guy: https://github.com/carlsednaoui/gitsocial -->
 ## Hi, it's me, Fritz 👋 
 
-I am a 17 year old student at [BRG-APP Innsbruck](https://www.brg-app.tsn.at/)
+I am an 18 year old student at [BRG-APP Innsbruck](https://www.brg-app.tsn.at/)
 
-### 📬 You can find / contact me via
+### 📬 You can find / contact me on
 **-** [GitLab](https://gitlab.com/Qrashi), where some of my other stuff is hosted on <br>
 **-** [Instagram](https://instagram.com/fritzlibitzli) <br>
 **-** discord, ``Qrashi#1067``
