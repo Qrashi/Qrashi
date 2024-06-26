@@ -42,7 +42,5 @@ Feel free to have a look.
 **-** [GitLab](https://gitlab.com/Qrashi), where some of my other stuff is hosted on <br>
 **-** [Instagram](https://instagram.com/fritzlibitzli) <br>
 **-** discord, ``Qrashi#1067``
-
-### 👀 Feel free to look at some of my projects I work on in my spare time.
-[my spotify profile](https://open.spotify.com/user/fritz.ra176?si=e99d425753a84686) <br>
-[my stats.fm profile](https://stats.fm/fiz)
+**-** [my spotify profile](https://open.spotify.com/user/fritz.ra176?si=e99d425753a84686) <br>
+**-** [my stats.fm profile](https://stats.fm/fiz)
