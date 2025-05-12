@@ -33,14 +33,12 @@
 <!-- These icons are a beautiful creation by this nice guy: https://github.com/carlsednaoui/gitsocial -->
 ## Hi, it's me, Fritz 👋 
 
-I am an 19 year old student at [BRG-APP Innsbruck](https://www.brg-app.tsn.at/)
+I am an 19 year old student at [TUM (Technische Universität München)](https://www.tum.de/)
 
-I mostly do "best practice" projects to try and learn as much as possible. But also a lot of fun projects =)
+I mostly try to do "best practice" projects to try and learn as much as possible.
 Feel free to have a look.
 
 ### 📬 You can find / contact me on
 **-** [GitLab](https://gitlab.com/Qrashi), where some of my other stuff is hosted on <br>
 **-** [Instagram](https://instagram.com/fritzlibitzli) <br>
 **-** discord, ``Qrashi#1067`` <br>
-**-** [my spotify profile](https://open.spotify.com/user/fritz.ra176?si=e99d425753a84686) <br>
-**-** [my stats.fm profile](https://stats.fm/fiz)
